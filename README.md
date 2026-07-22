@@ -2,7 +2,7 @@
 Repositório reservado ao robô utilizado para a divulgação do PS da TITANS.
 
 <p align="center">
-  <img src="Image/Baloone.jpg" width="450">
+  <img src="Image/Baloone.jpg" width="300">
 </p>  
 
 ### Composição do Baloone 🎈
